@@ -1,0 +1,8 @@
+pip install pandas
+pip install scikit-learn
+pip install tensorflow
+pip install transformers
+pip install sentencepiece 
+pip install tf-keras
+pip install Flask
+pip install pyodbc
